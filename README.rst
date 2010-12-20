@@ -12,6 +12,9 @@ Feel free to join us in `#gunicorn`_ on freenode_.
 This repository is a collection of recipe and examples to help in
 gunicorn deployement, installation and configuration.
 
+
+All contributions are under `"CC Attribution By" license <http://creativecommons.org/licenses/by/3.0/>`_.
+
 .. _Unicorn: http://unicorn.bogomips.org/
 .. _`#gunicorn`: http://webchat.freenode.net/?channels=gunicorn
 .. _freenode: http://freenode.net
